@@ -1,0 +1,5 @@
+Aspect Ratio: width x height
+              width : height
+              width / height
+
+If the aspect ratio of the container is larger than the image, these rules reverse!
